@@ -16,7 +16,7 @@ ZAIMIE AZMIN (17202336)
   <li>PYTHON CODE -> webscrapingFinal.py</li>
   <li>DATA CSV -> mywebscrapBrentFinal.csv</li>
   <li>SLIDE -> MILESTONE 1 - WEB SCRAPING</li>
-  <li>YOUTUBE LINK -> https://youtu.be/GCbPF85MCPk</li>
+  <li>YOUTUBE LINK -> https://youtu.be/6iKyYCgTziE</li>
   </ul>
   
   
