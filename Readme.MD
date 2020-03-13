@@ -11,7 +11,7 @@ MUHAMMAD AMIRUL(17202062)
 ZAIMIE AZMIN (17202336/1) 
 <BR><BR>
 <B>PROJECT MILESTONE</B>
-<H5>MILESTONE 1 - WEB CRAWLING</H5>
+<B>MILESTONE 1 - WEB CRAWLING</B>
   <ul>
   <li>PYTHON CODE -> webscrapingFinal.py</li>
   <li>DATA CSV -> mywebscrapBrentFinal.csv</li>
