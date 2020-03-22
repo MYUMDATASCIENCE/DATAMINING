@@ -18,6 +18,14 @@ ZAIMIE AZMIN (17202336)
   <li>SLIDE -> MILESTONE 1 - WEB SCRAPING</li>
   <li>YOUTUBE LINK -> https://youtu.be/6iKyYCgTziE</li>
   </ul>
+  <BR><BR>
+<B>PROJECT MILESTONE :</B></BR>
+<B>MILESTONE 2 - STORE DATA INTO HIVE DATA WAREHOUSE</B>
+  <ul>
+  <li>SLIDE -> MILESTONE 2 - STORE DATA INTO HIVE</li>
+  <li>INSTALLATION & UPDATES -> MILESTONE 2 - INSTALLATION AND PROGRESS UPDATES</li>
+  <li>YOUTUBE LINK -> https://youtu.be/6iKyYCgTziE</li>
+  </ul>
   
   
   
