@@ -23,7 +23,7 @@ ZAIMIE AZMIN (17202336)
   <ul>
   <li>SLIDE -> MILESTONE 2 - STORE DATA INTO HIVE</li>
   <li>INSTALLATION & UPDATES -> MILESTONE 2 - INSTALLATION AND PROGRESS UPDATES</li>
-  <li>YOUTUBE LINK -> https://youtu.be/6iKyYCgTziE</li>
+  <li>YOUTUBE LINK -> https://youtu.be/YpzBty58Kts</li>
   </ul>
   
   
