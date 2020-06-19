@@ -40,7 +40,7 @@ ZAIMIE AZMIN (17202336)
   </ul>
  <B>MILESTONE 5 - DEPLOYMENT IN WEB (FLASK) & MOBILE APP (KIVY) </B>
   <ul>
-  <li>SLIDE -> MILESTONE 5 - DEPLOYMENT IN WEB (FLASK) & MOBILE APP (KIVY) /li>
+  <li>SLIDE -> MILESTONE 5 - DEPLOYMENT IN WEB (FLASK) & MOBILE APP (KIVY)</li>
   <li>DOCUMENTATION -> MILESTONE 5 -DOCUMENTATION </li>
   <li>CODE - <a href="https://github.com/MYUMDATASCIENCE/DATAMINING/blob/master/phive_python.ipynb">flask_kivy</a></li>
   <li>YOUTUBE LINK -> https://youtu.be/YpzBty58Kts</li>
