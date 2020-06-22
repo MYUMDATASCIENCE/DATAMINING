@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CRUDE OIL WTI AND BRENT PRICE PREDICTION</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main2.css') }}">
+  </head>
+  <body>
+    <div class="testbox">
+     <!--form action = "http://localhost:5000/login" method = "post"-->
+      <form action="{{ url_for('predict')}}" method="POST">
+        <div class="banner">
+          <h1>CRUDE OIL WTI AND BRENT PRICE PREDICTION</h1>
+        </div>
+        <p>Please select option below for prediction</p>
+        <div class="question">
+          <label>Commodity</label>
+          <div class="question-answer">
+            <div>
+              <input type="radio" value="wtiradio" id="radio_1" name="commodity"/ checked="true">
+              <label for="radio_1" class="radio"><span>WTI Crude Oil</span></label>
+            </div>
+            <div>
+              <input  type="radio" value="brentradio" id="radio_2" name="commodity"/>
+              <label for="radio_2" class="radio"><span>Brent Crude Oil</span></label>
+            </div>
+          </div>
+        </div>
+        <div class="question">
+          <label>Prediction Model</label>
+          <div class="question-answer">
+            <div>
+              <input type="radio" value="svm" id="radio_3" name="modeltype" checked="true"/>
+              <label for="radio_3" class="radio"><span>Support Vector Machine(SVM)</span></label>
+            </div>
+            <div>
+              <input  type="radio" value="lr" id="radio_4" name="modeltype"/>
+              <label for="radio_4" class="radio"><span>Logistic Regression(LR)</span></label>
+            </div>
+          </div>
+        </div>
+        <div class="btn-block">
+          <button type="submit" href="/">XPREDICT</button>
+          <br>
+          {{ prediction_text }}
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
