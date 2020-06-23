@@ -36,7 +36,7 @@ ZAIMIE AZMIN (17202336)
   <li>SLIDE -> MILESTONE 4 - INTERPRETATION OF DATA & COMMUNICATIONS OF INSIGHTS OF DATA</li>
   <li>PROGRESS & UPDATES -> SVM & LINEAR REGRESSION </li>
   <li>PYTHON CODE - <a href="https://github.com/MYUMDATASCIENCE/DATAMINING/blob/master/svm_lr.ipynb">svm_lr.ipynb</a></li>
-  <li>YOUTUBE LINK -> https://youtu.be/YpzBty58Kts</li>
+  <li>YOUTUBE LINK -> https://youtu.be/pX_Mtb8NO74</li>
   </ul>
  <B>MILESTONE 5 - DEPLOYMENT IN WEB (FLASK) & MOBILE APP (KIVY) </B>
   <ul>
