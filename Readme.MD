@@ -48,4 +48,4 @@ ZAIMIE AZMIN (17202336)
   <li>YOUTUBE LINK -> https://youtu.be/YpzBty58Kts</li>
   </ul>
   <img src="https://github.com/muhdamirulsamsul/DataMining/blob/master/page1.png"></img>
-  
+  <img src="https://github.com/muhdamirulsamsul/DataMining/blob/master/page3.png"></img>
