@@ -44,6 +44,7 @@ ZAIMIE AZMIN (17202336)
   <li>DOCUMENTATION -> MILESTONE 5 -DOCUMENTATION </li>
   <li>CODE - <a href="https://github.com/MYUMDATASCIENCE/DATAMINING/tree/master/MILESTONE5">SOURCE_CODE</a></li>
   <li>WEB APP (FLASK) - <a href="http://wqd190018.pythonanywhere.com/">wqd190018.pythonanywhere.com</a></li>
+  <li>WEB APP (KIVY) - <a href="https://github.com/MYUMDATASCIENCE/DataMining-1/tree/master/kivy_project">Kivy</a></li>
   <li>YOUTUBE LINK -> https://youtu.be/YpzBty58Kts</li>
   </ul>
   
