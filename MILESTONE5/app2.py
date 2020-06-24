@@ -19,22 +19,6 @@ matplotlib.use('Agg')
 #--------
 app = Flask(__name__)
 
-#dft = pd.read_csv('df9.csv')
-#dft.info()
-
-
-#X = dft.iloc[:, [2,4]]
-#y = dft.iloc[:,1]
-
-##from sklearn.linear_model import LinearRegression
-#regressor = LinearRegression()
-
-#regressor.fit(X,y)
-
-##pickle.dump(regressor, open('model1.pkl','wb'))
-#model = pickle.load(open('model1.pkl','rb'))
-
-
 #--------MODEL---------
 import pandas as pd
 import numpy as np
