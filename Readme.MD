@@ -47,5 +47,5 @@ ZAIMIE AZMIN (17202336)
   <li>MOBILE APP (KIVY) - <a href="https://github.com/MYUMDATASCIENCE/DataMining-1/tree/master/kivy_project">Kivy</a></li>
   <li>YOUTUBE LINK -> https://youtu.be/YpzBty58Kts</li>
   </ul>
-  
+  <img src="https://github.com/muhdamirulsamsul/DataMining/blob/master/page1.png"></img>
   
